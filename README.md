@@ -65,11 +65,11 @@ python3 train.py  --conf=./config.json
 
 ## Contribute
 
-Don't feel shy to drop a star, if you find this repo useful. I would love for you to contribute to **KITT-Road Segmentation**, check the ``LICENSE`` file for more info.
+Don't feel shy to drop a star, if you find this repo useful. I would love for you to contribute to **Semantic Segmentation**, check the ``LICENSE`` file for more info.
 
 ## Meta
 
-Stanly Moses – [@Linkedin](https://in.linkedin.com/in/stanlymoses) – stanlyhardy@yahoo.com
+Stanly Moses – [@Linkedin](https://in.linkedin.com/in/stanlymoses) – stanlimoses@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
