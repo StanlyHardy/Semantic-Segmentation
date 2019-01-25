@@ -74,4 +74,3 @@ Stanly Moses – [@Linkedin](https://in.linkedin.com/in/stanlymoses) – stanlim
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/StanlyHardy/Semantic-Segmentation](https://github.com/StanlyHardy/)
-
